@@ -4,193 +4,193 @@
 
   <!-- 首页 -->
   <url>
-    <loc>https://image.kixtools.com/</loc>
+    <loc>https://image-tools.667374.xyz/</loc>
     <lastmod>2026-08-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://image.kixtools.com/"/>
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://image.kixtools.com/zh-CN/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://image.kixtools.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://image-tools.667374.xyz/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://image-tools.667374.xyz/zh-CN/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://image-tools.667374.xyz/"/>
   </url>
   <url>
-    <loc>https://image.kixtools.com/zh-CN/</loc>
+    <loc>https://image-tools.667374.xyz/zh-CN/</loc>
     <lastmod>2026-08-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://image.kixtools.com/"/>
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://image.kixtools.com/zh-CN/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://image.kixtools.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://image-tools.667374.xyz/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://image-tools.667374.xyz/zh-CN/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://image-tools.667374.xyz/"/>
   </url>
 
   <!-- 博客列表页 -->
   <url>
-    <loc>https://image.kixtools.com/blog/</loc>
+    <loc>https://image-tools.667374.xyz/blog/</loc>
     <lastmod>2026-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://image.kixtools.com/blog/"/>
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://image.kixtools.com/zh-CN/blog/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://image.kixtools.com/blog/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://image-tools.667374.xyz/blog/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://image-tools.667374.xyz/zh-CN/blog/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://image-tools.667374.xyz/blog/"/>
   </url>
   <url>
-    <loc>https://image.kixtools.com/zh-CN/blog/</loc>
+    <loc>https://image-tools.667374.xyz/zh-CN/blog/</loc>
     <lastmod>2026-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://image.kixtools.com/blog/"/>
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://image.kixtools.com/zh-CN/blog/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://image.kixtools.com/blog/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://image-tools.667374.xyz/blog/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://image-tools.667374.xyz/zh-CN/blog/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://image-tools.667374.xyz/blog/"/>
   </url>
 
   <!-- 博客文章（中英各 10 篇） -->
   <url>
-    <loc>https://image.kixtools.com/blog/compress-png-online.html</loc>
+    <loc>https://image-tools.667374.xyz/blog/compress-png-online.html</loc>
     <lastmod>2026-08-24</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://image.kixtools.com/blog/compress-png-online.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://image.kixtools.com/zh-CN/blog/compress-png-online.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://image.kixtools.com/blog/compress-png-online.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://image-tools.667374.xyz/blog/compress-png-online.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://image-tools.667374.xyz/zh-CN/blog/compress-png-online.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://image-tools.667374.xyz/blog/compress-png-online.html"/>
   </url>
   <url>
-    <loc>https://image.kixtools.com/zh-CN/blog/compress-png-online.html</loc>
+    <loc>https://image-tools.667374.xyz/zh-CN/blog/compress-png-online.html</loc>
     <lastmod>2026-08-24</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://image.kixtools.com/blog/compress-png-online.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://image.kixtools.com/zh-CN/blog/compress-png-online.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://image.kixtools.com/blog/compress-png-online.html"/>
-  </url>
-
-  <url>
-    <loc>https://image.kixtools.com/blog/avif-vs-webp.html</loc>
-    <lastmod>2026-08-24</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://image.kixtools.com/blog/avif-vs-webp.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://image.kixtools.com/zh-CN/blog/avif-vs-webp.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://image.kixtools.com/blog/avif-vs-webp.html"/>
-  </url>
-  <url>
-    <loc>https://image.kixtools.com/zh-CN/blog/avif-vs-webp.html</loc>
-    <lastmod>2026-08-24</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://image.kixtools.com/blog/avif-vs-webp.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://image.kixtools.com/zh-CN/blog/avif-vs-webp.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://image.kixtools.com/blog/avif-vs-webp.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://image-tools.667374.xyz/blog/compress-png-online.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://image-tools.667374.xyz/zh-CN/blog/compress-png-online.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://image-tools.667374.xyz/blog/compress-png-online.html"/>
   </url>
 
   <url>
-    <loc>https://image.kixtools.com/blog/best-image-format-for-web.html</loc>
+    <loc>https://image-tools.667374.xyz/blog/avif-vs-webp.html</loc>
     <lastmod>2026-08-24</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://image.kixtools.com/blog/best-image-format-for-web.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://image.kixtools.com/zh-CN/blog/best-image-format-for-web.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://image.kixtools.com/blog/best-image-format-for-web.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://image-tools.667374.xyz/blog/avif-vs-webp.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://image-tools.667374.xyz/zh-CN/blog/avif-vs-webp.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://image-tools.667374.xyz/blog/avif-vs-webp.html"/>
   </url>
   <url>
-    <loc>https://image.kixtools.com/zh-CN/blog/best-image-format-for-web.html</loc>
+    <loc>https://image-tools.667374.xyz/zh-CN/blog/avif-vs-webp.html</loc>
     <lastmod>2026-08-24</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://image.kixtools.com/blog/best-image-format-for-web.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://image.kixtools.com/zh-CN/blog/best-image-format-for-web.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://image.kixtools.com/blog/best-image-format-for-web.html"/>
-  </url>
-
-  <url>
-    <loc>https://image.kixtools.com/blog/batch-compress-images.html</loc>
-    <lastmod>2026-08-24</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://image.kixtools.com/blog/batch-compress-images.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://image.kixtools.com/zh-CN/blog/batch-compress-images.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://image.kixtools.com/blog/batch-compress-images.html"/>
-  </url>
-  <url>
-    <loc>https://image.kixtools.com/zh-CN/blog/batch-compress-images.html</loc>
-    <lastmod>2026-08-24</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://image.kixtools.com/blog/batch-compress-images.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://image.kixtools.com/zh-CN/blog/batch-compress-images.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://image.kixtools.com/blog/batch-compress-images.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://image-tools.667374.xyz/blog/avif-vs-webp.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://image-tools.667374.xyz/zh-CN/blog/avif-vs-webp.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://image-tools.667374.xyz/blog/avif-vs-webp.html"/>
   </url>
 
   <url>
-    <loc>https://image.kixtools.com/blog/reduce-image-size-without-losing-quality.html</loc>
+    <loc>https://image-tools.667374.xyz/blog/best-image-format-for-web.html</loc>
     <lastmod>2026-08-24</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://image.kixtools.com/blog/reduce-image-size-without-losing-quality.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://image.kixtools.com/zh-CN/blog/reduce-image-size-without-losing-quality.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://image.kixtools.com/blog/reduce-image-size-without-losing-quality.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://image-tools.667374.xyz/blog/best-image-format-for-web.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://image-tools.667374.xyz/zh-CN/blog/best-image-format-for-web.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://image-tools.667374.xyz/blog/best-image-format-for-web.html"/>
   </url>
   <url>
-    <loc>https://image.kixtools.com/zh-CN/blog/reduce-image-size-without-losing-quality.html</loc>
+    <loc>https://image-tools.667374.xyz/zh-CN/blog/best-image-format-for-web.html</loc>
     <lastmod>2026-08-24</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://image.kixtools.com/blog/reduce-image-size-without-losing-quality.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://image.kixtools.com/zh-CN/blog/reduce-image-size-without-losing-quality.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://image.kixtools.com/blog/reduce-image-size-without-losing-quality.html"/>
-  </url>
-
-  <url>
-    <loc>https://image.kixtools.com/blog/convert-images-to-webp.html</loc>
-    <lastmod>2026-08-24</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://image.kixtools.com/blog/convert-images-to-webp.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://image.kixtools.com/zh-CN/blog/convert-images-to-webp.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://image.kixtools.com/blog/convert-images-to-webp.html"/>
-  </url>
-  <url>
-    <loc>https://image.kixtools.com/zh-CN/blog/convert-images-to-webp.html</loc>
-    <lastmod>2026-08-24</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://image.kixtools.com/blog/convert-images-to-webp.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://image.kixtools.com/zh-CN/blog/convert-images-to-webp.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://image.kixtools.com/blog/convert-images-to-webp.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://image-tools.667374.xyz/blog/best-image-format-for-web.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://image-tools.667374.xyz/zh-CN/blog/best-image-format-for-web.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://image-tools.667374.xyz/blog/best-image-format-for-web.html"/>
   </url>
 
   <url>
-    <loc>https://image.kixtools.com/blog/compress-jpeg-without-quality-loss.html</loc>
+    <loc>https://image-tools.667374.xyz/blog/batch-compress-images.html</loc>
     <lastmod>2026-08-24</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://image.kixtools.com/blog/compress-jpeg-without-quality-loss.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://image.kixtools.com/zh-CN/blog/compress-jpeg-without-quality-loss.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://image.kixtools.com/blog/compress-jpeg-without-quality-loss.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://image-tools.667374.xyz/blog/batch-compress-images.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://image-tools.667374.xyz/zh-CN/blog/batch-compress-images.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://image-tools.667374.xyz/blog/batch-compress-images.html"/>
   </url>
   <url>
-    <loc>https://image.kixtools.com/zh-CN/blog/compress-jpeg-without-quality-loss.html</loc>
+    <loc>https://image-tools.667374.xyz/zh-CN/blog/batch-compress-images.html</loc>
     <lastmod>2026-08-24</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://image.kixtools.com/blog/compress-jpeg-without-quality-loss.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://image.kixtools.com/zh-CN/blog/compress-jpeg-without-quality-loss.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://image.kixtools.com/blog/compress-jpeg-without-quality-loss.html"/>
-  </url>
-
-  <url>
-    <loc>https://image.kixtools.com/blog/image-optimization-for-seo.html</loc>
-    <lastmod>2026-08-24</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://image.kixtools.com/blog/image-optimization-for-seo.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://image.kixtools.com/zh-CN/blog/image-optimization-for-seo.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://image.kixtools.com/blog/image-optimization-for-seo.html"/>
-  </url>
-  <url>
-    <loc>https://image.kixtools.com/zh-CN/blog/image-optimization-for-seo.html</loc>
-    <lastmod>2026-08-24</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://image.kixtools.com/blog/image-optimization-for-seo.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://image.kixtools.com/zh-CN/blog/image-optimization-for-seo.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://image.kixtools.com/blog/image-optimization-for-seo.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://image-tools.667374.xyz/blog/batch-compress-images.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://image-tools.667374.xyz/zh-CN/blog/batch-compress-images.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://image-tools.667374.xyz/blog/batch-compress-images.html"/>
   </url>
 
   <url>
-    <loc>https://image.kixtools.com/blog/browser-based-image-compression-privacy.html</loc>
+    <loc>https://image-tools.667374.xyz/blog/reduce-image-size-without-losing-quality.html</loc>
     <lastmod>2026-08-24</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://image.kixtools.com/blog/browser-based-image-compression-privacy.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://image.kixtools.com/zh-CN/blog/browser-based-image-compression-privacy.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://image.kixtools.com/blog/browser-based-image-compression-privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://image-tools.667374.xyz/blog/reduce-image-size-without-losing-quality.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://image-tools.667374.xyz/zh-CN/blog/reduce-image-size-without-losing-quality.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://image-tools.667374.xyz/blog/reduce-image-size-without-losing-quality.html"/>
   </url>
   <url>
-    <loc>https://image.kixtools.com/zh-CN/blog/browser-based-image-compression-privacy.html</loc>
+    <loc>https://image-tools.667374.xyz/zh-CN/blog/reduce-image-size-without-losing-quality.html</loc>
     <lastmod>2026-08-24</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://image.kixtools.com/blog/browser-based-image-compression-privacy.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://image.kixtools.com/zh-CN/blog/browser-based-image-compression-privacy.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://image.kixtools.com/blog/browser-based-image-compression-privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://image-tools.667374.xyz/blog/reduce-image-size-without-losing-quality.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://image-tools.667374.xyz/zh-CN/blog/reduce-image-size-without-losing-quality.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://image-tools.667374.xyz/blog/reduce-image-size-without-losing-quality.html"/>
   </url>
 
   <url>
-    <loc>https://image.kixtools.com/blog/image-compression-website-speed.html</loc>
+    <loc>https://image-tools.667374.xyz/blog/convert-images-to-webp.html</loc>
     <lastmod>2026-08-24</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://image.kixtools.com/blog/image-compression-website-speed.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://image.kixtools.com/zh-CN/blog/image-compression-website-speed.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://image.kixtools.com/blog/image-compression-website-speed.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://image-tools.667374.xyz/blog/convert-images-to-webp.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://image-tools.667374.xyz/zh-CN/blog/convert-images-to-webp.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://image-tools.667374.xyz/blog/convert-images-to-webp.html"/>
   </url>
   <url>
-    <loc>https://image.kixtools.com/zh-CN/blog/image-compression-website-speed.html</loc>
+    <loc>https://image-tools.667374.xyz/zh-CN/blog/convert-images-to-webp.html</loc>
     <lastmod>2026-08-24</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://image.kixtools.com/blog/image-compression-website-speed.html"/>
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://image.kixtools.com/zh-CN/blog/image-compression-website-speed.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://image.kixtools.com/blog/image-compression-website-speed.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://image-tools.667374.xyz/blog/convert-images-to-webp.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://image-tools.667374.xyz/zh-CN/blog/convert-images-to-webp.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://image-tools.667374.xyz/blog/convert-images-to-webp.html"/>
+  </url>
+
+  <url>
+    <loc>https://image-tools.667374.xyz/blog/compress-jpeg-without-quality-loss.html</loc>
+    <lastmod>2026-08-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://image-tools.667374.xyz/blog/compress-jpeg-without-quality-loss.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://image-tools.667374.xyz/zh-CN/blog/compress-jpeg-without-quality-loss.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://image-tools.667374.xyz/blog/compress-jpeg-without-quality-loss.html"/>
+  </url>
+  <url>
+    <loc>https://image-tools.667374.xyz/zh-CN/blog/compress-jpeg-without-quality-loss.html</loc>
+    <lastmod>2026-08-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://image-tools.667374.xyz/blog/compress-jpeg-without-quality-loss.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://image-tools.667374.xyz/zh-CN/blog/compress-jpeg-without-quality-loss.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://image-tools.667374.xyz/blog/compress-jpeg-without-quality-loss.html"/>
+  </url>
+
+  <url>
+    <loc>https://image-tools.667374.xyz/blog/image-optimization-for-seo.html</loc>
+    <lastmod>2026-08-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://image-tools.667374.xyz/blog/image-optimization-for-seo.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://image-tools.667374.xyz/zh-CN/blog/image-optimization-for-seo.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://image-tools.667374.xyz/blog/image-optimization-for-seo.html"/>
+  </url>
+  <url>
+    <loc>https://image-tools.667374.xyz/zh-CN/blog/image-optimization-for-seo.html</loc>
+    <lastmod>2026-08-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://image-tools.667374.xyz/blog/image-optimization-for-seo.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://image-tools.667374.xyz/zh-CN/blog/image-optimization-for-seo.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://image-tools.667374.xyz/blog/image-optimization-for-seo.html"/>
+  </url>
+
+  <url>
+    <loc>https://image-tools.667374.xyz/blog/browser-based-image-compression-privacy.html</loc>
+    <lastmod>2026-08-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://image-tools.667374.xyz/blog/browser-based-image-compression-privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://image-tools.667374.xyz/zh-CN/blog/browser-based-image-compression-privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://image-tools.667374.xyz/blog/browser-based-image-compression-privacy.html"/>
+  </url>
+  <url>
+    <loc>https://image-tools.667374.xyz/zh-CN/blog/browser-based-image-compression-privacy.html</loc>
+    <lastmod>2026-08-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://image-tools.667374.xyz/blog/browser-based-image-compression-privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://image-tools.667374.xyz/zh-CN/blog/browser-based-image-compression-privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://image-tools.667374.xyz/blog/browser-based-image-compression-privacy.html"/>
+  </url>
+
+  <url>
+    <loc>https://image-tools.667374.xyz/blog/image-compression-website-speed.html</loc>
+    <lastmod>2026-08-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://image-tools.667374.xyz/blog/image-compression-website-speed.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://image-tools.667374.xyz/zh-CN/blog/image-compression-website-speed.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://image-tools.667374.xyz/blog/image-compression-website-speed.html"/>
+  </url>
+  <url>
+    <loc>https://image-tools.667374.xyz/zh-CN/blog/image-compression-website-speed.html</loc>
+    <lastmod>2026-08-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://image-tools.667374.xyz/blog/image-compression-website-speed.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://image-tools.667374.xyz/zh-CN/blog/image-compression-website-speed.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://image-tools.667374.xyz/blog/image-compression-website-speed.html"/>
   </url>
 
 </urlset>

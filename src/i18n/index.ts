@@ -15,7 +15,7 @@ const TRANSLATIONS: Record<Language, Translation> = {
 };
 
 // 站点根 URL（用于 canonical/hreflang，可按实际部署域名调整）
-export const SITE_ORIGIN = 'https://image.kixtools.com';
+export const SITE_ORIGIN = 'https://image-tools.667374.xyz';
 
 /**
  * 根据浏览器路径判断当前语言：

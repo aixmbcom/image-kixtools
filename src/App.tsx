@@ -138,7 +138,7 @@ export function App() {
         <footer className="mt-12 pt-6 border-t border-gray-200 text-center text-sm text-gray-400">
           <span>{t.footerBefore}</span>
           <a
-            href="https://kixtools.com"
+            href="https://image-tools.667374.xyz"
             target="_blank"
             rel="noopener noreferrer"
             className="text-blue-500 hover:text-blue-600 hover:underline"
